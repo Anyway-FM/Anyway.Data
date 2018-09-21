@@ -1,3 +1,5 @@
+![](https://raw.githubusercontent.com/Anyway-Design/Anyway.Data/master/assets/demo.gif)
+
 # Anyway.Data 假数据包 for Sketch
 来自 Anyway.Design 的 Sketch 数据包，包含国内地址（未完成）、中国人名和亚洲人头像，持续更新中。
 
